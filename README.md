@@ -86,7 +86,7 @@ LoanFinanceSystem/
 🧩 Backend Setup
 
 1.Clone the repository.
-git clone https://github.com/Tejas767/LoanFinanceSystem.git
+git clone https://github.com/Tejas767/Loan-Inquiry-Management-System.git
 cd backend
 
 
